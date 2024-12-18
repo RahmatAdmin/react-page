@@ -9,7 +9,7 @@ export function Navbar({ menu1, menu2, menu3, menu4 }) {
   // membuat components didalam return dengan semantic html
   return (
     <nav
-    className="fixed top-0 left-0 w-full bg-primary z-50"
+    className="fixed top-0 left-0 w-full bg-dark z-50"
   >
       <div className="navbar">
         <div className="navbar-start">
