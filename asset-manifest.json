@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-page/static/css/main.c6321a2d.css",
+    "main.js": "/react-page/static/js/main.1c5d51fc.js",
+    "static/js/488.4e1284fd.chunk.js": "/react-page/static/js/488.4e1284fd.chunk.js",
+    "static/media/node.png": "/react-page/static/media/node.919397545d6833fcfab0.png",
+    "static/media/mongo.png": "/react-page/static/media/mongo.82e0bbbbfc4a56be54b9.png",
+    "static/media/laravel.png": "/react-page/static/media/laravel.693716c48a80036f4796.png",
+    "static/media/html.png": "/react-page/static/media/html.daf27e6ed28d4653d17d.png",
+    "static/media/ubuntu.png": "/react-page/static/media/ubuntu.d4f5eabb53d643e262c2.png",
+    "static/media/animasi.png": "/react-page/static/media/animasi.1b8151533a91688972b8.png",
+    "static/media/css.png": "/react-page/static/media/css.44d3b4ce98958d57133a.png",
+    "static/media/js.png": "/react-page/static/media/js.b908d001f4304d69b868.png",
+    "static/media/laragon.png": "/react-page/static/media/laragon.acd7f0a5de8bb8126e33.png",
+    "static/media/express.png": "/react-page/static/media/express.9b344d7469dbbdc76754.png",
+    "index.html": "/react-page/index.html",
+    "main.c6321a2d.css.map": "/react-page/static/css/main.c6321a2d.css.map",
+    "main.1c5d51fc.js.map": "/react-page/static/js/main.1c5d51fc.js.map",
+    "488.4e1284fd.chunk.js.map": "/react-page/static/js/488.4e1284fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6321a2d.css",
+    "static/js/main.1c5d51fc.js"
+  ]
+}
