@@ -7,12 +7,16 @@ import '../src/css/index.css';
 import { Skill } from './components/Skill';
 import { Footer } from './components/Footer';
 import {Gallery} from './components/Gallery';
+import { Image } from './components/Image';
+import { Board } from './components/Board';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
      <Navbar menu1="Home" menu2="gallery" menu3="Project" menu4="Contact"/>
+     <Image />
+     <Board />
      <About />
      <Skill />
      <Gallery />

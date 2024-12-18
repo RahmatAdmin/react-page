@@ -14,7 +14,7 @@ export function Skill() {
     return (
         <div className="app">
         {/* Header Section */}
-        <header className="bg-gray-800 text-white p-6 text-center">
+        <header className="bg-dark text-white p-6 text-center">
           <h1 className="text-4xl font-bold mb-2">Web Development Tools</h1>
           <p className="text-lg">Explore the latest technologies and tools used in web development.</p>
         </header>
@@ -121,7 +121,7 @@ export function Skill() {
                 </div>
         
             {/* Additional Information */}
-            <p className="text-lg text-gray-700">
+            <p className="text-lg text-white-700">
               Web development is an ever-evolving field, with new tools and frameworks emerging regularly. Stay up-to-date with the latest advancements and make sure you're using the best technologies to create modern and responsive websites.
             </p>
           </div>
@@ -129,63 +129,63 @@ export function Skill() {
           {/* Right side: Photo Grid */}
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
             <div className="relative">
-              <img
+              <img data-aos="flip-right" data-aos-duration="1500"
                 src={html}
                 alt="Photo 1"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="relative">
-              <img
+              <img data-aos="flip-right" data-aos-duration="1500"
                 src={css}
                 alt="Photo 2"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="relative">
-              <img
+              <img data-aos="flip-right" data-aos-duration="1500"
                 src={js}
                 alt="Photo 3"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="relative">
-              <img
+              <img data-aos="flip-right" data-aos-duration="1500"
                 src={express}
                 alt="Photo 4"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="relative">
-              <img
+              <img data-aos="flip-right" data-aos-duration="1500"
                 src={node}
                 alt="Photo 5"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="relative">
-              <img
+              <img data-aos="flip-right" data-aos-duration="1500"
                 src={mongo}
                 alt="Photo 6"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="relative">
-              <img
+              <img data-aos="flip-right" data-aos-duration="1500"
                 src={laravel}
                 alt="Photo 7"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="relative">
-              <img
+              <img data-aos="flip-right" data-aos-duration="1500"
                 src={laragon}
                 alt="Photo 8"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="relative">
-              <img
+              <img data-aos="flip-right" data-aos-duration="1500"
                 src={ubuntu}
                 alt="Photo 9"
                 className="w-full h-full object-cover"
