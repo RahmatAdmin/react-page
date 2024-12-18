@@ -14,9 +14,8 @@ export function About() {
           <p className="text-justify">
  HEAD
             Saya seorang fullstack development yang berfokus pada 
-
             saya adalah full stack web development amet consectetur adipisicing elit. Nesciunt
-             7e2df907f1d697389522ab2695671e27fbe83965
+7e2df907f1d697389522ab2695671e27fbe83965
             officiis at debitis adipisci, aliquam esse, aspernatur perspiciatis
             neque ab ad veritatis! Lorem ipsum dolor sit, amet consectetur
             adipisicing elit. Fuga delectus facilis officia, et illo eveniet
