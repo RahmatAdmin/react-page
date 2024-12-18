@@ -12,7 +12,11 @@ export function About() {
         <h1 data-aos="fade-right" data-aos-duration="1500" className="text-3xl font-bold mb-4">Rahmat Taufik Rinaldi</h1>
         <p data-aos="fade-left" data-aos-duration="1500" className="text-justify leading-relaxed">
           <p className="text-justify">
+ HEAD
             Saya seorang fullstack development yang berfokus pada 
+
+            saya adalah full stack web development amet consectetur adipisicing elit. Nesciunt
+             7e2df907f1d697389522ab2695671e27fbe83965
             officiis at debitis adipisci, aliquam esse, aspernatur perspiciatis
             neque ab ad veritatis! Lorem ipsum dolor sit, amet consectetur
             adipisicing elit. Fuga delectus facilis officia, et illo eveniet
