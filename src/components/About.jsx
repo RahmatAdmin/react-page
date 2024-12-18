@@ -26,7 +26,7 @@ export function About() {
         <h1 data-aos="fade-right" className="text-3xl font-bold mb-4">Rahmat Taufik Rinaldi</h1>
         <p data-aos="fade-left" className="text-justify leading-relaxed">
           <p className="text-justify">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
+            saya adalah Taufik dolor sit amet consectetur adipisicing elit. Nesciunt
             mollitia ipsam laborum iste tempora voluptate omnis laudantium iure
             officiis at debitis adipisci, aliquam esse, aspernatur perspiciatis
             neque ab ad veritatis! Lorem ipsum dolor sit, amet consectetur
