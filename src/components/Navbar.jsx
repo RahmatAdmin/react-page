@@ -4,7 +4,7 @@ import React from "react"; // import module react
 
 export function Navbar({ menu1, menu2, menu3, menu4 }) {
   // membuat expresi di luar return
-  const username = 'Rahmat Taupik Rinaldi';
+  const username = 'Rahmat Taupik R';
 
   // membuat components didalam return dengan semantic html
   return (
