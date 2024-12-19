@@ -1,12 +1,11 @@
 import React from "react";
-import { Work } from "../components/Work";
+import { Gallery } from "../components/Gallery";
 import { Footer } from "../components/Footer";
 
-
-export function Project () {
+export function Collections () {
     return (
        <div>
-            <Work />,
+            <Gallery />
             <Footer />
        </div>
     );

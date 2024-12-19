@@ -1,11 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background: radial-gradient(circle, 
-    rgb(127, 90, 195) 20%,  /* Center - Warna Ungu Terang */
-    rgba(21, 20, 78, 1) 50%,   /* Mid - Biru Tua */
-    rgba(3, 17, 24, 1) 80%,    /* Luar - Biru Gelap */
-    rgba(0, 0, 0, 1) 100%      /* Edge - Hitam */
-  );
+   border-color: rgb(0, 0, 0);
+   background-color: oklch(23.2607% 0.013807 253.100675 / 1);
     color: #f8fafc;
   }
   

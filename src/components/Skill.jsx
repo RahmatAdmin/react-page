@@ -15,8 +15,8 @@ export function Skill() {
         <div className="app">
         {/* Header Section */}
         <header className="bg-dark text-white p-6 text-center">
-          <h1 className="text-4xl font-bold mb-2">Web Development Tools</h1>
-          <p className="text-lg">Explore the latest technologies and tools used in web development.</p>
+          <h1 className="text-4xl font-bold mb-2" data-aos="flip-right" data-aos-duration="1500">Web Development Tools</h1>
+          <p className="text-lg" data-aos="flip-left" data-aos-duration="1500">Explore the latest technologies and tools used in web development.</p>
         </header>
   
         {/* About Section with Running Text on the Left and Gallery on the Right */}
@@ -26,8 +26,8 @@ export function Skill() {
             {/* Running Text */}
             <div className="overflow-hidden">
             <header>
-                <h1>
-                    Web Development Tools
+                <h1 data-aos="fade-down" data-aos-duration="1500">
+                    Fullstack Web 
                 </h1>
                 <p>
                     {/* teks */}
@@ -121,7 +121,7 @@ export function Skill() {
                 </div>
         
             {/* Additional Information */}
-            <p className="text-lg text-white-700">
+            <p className="text-lg text-white-700 text-justify">
               Web development is an ever-evolving field, with new tools and frameworks emerging regularly. Stay up-to-date with the latest advancements and make sure you're using the best technologies to create modern and responsive websites.
             </p>
           </div>

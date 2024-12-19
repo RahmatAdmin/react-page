@@ -1,26 +1,26 @@
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
 import { Navbar } from './components/Navbar';
-import { About } from './components/About';
+import { Home } from './pages/Home';
+import { Collections } from "./pages/Collections";
+import { Project } from "./pages/Project";
 import '../src/css/index.css';
-import { Skill } from './components/Skill';
-import { Footer } from './components/Footer';
-import {Gallery} from './components/Gallery';
-import { Image } from './components/Image';
-import { Board } from './components/Board';
-
+import { Contact } from './pages/Contact';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-     <Navbar menu1="Home" menu2="gallery" menu3="Project" menu4="Contact"/>
-     <Image />
-     <Board />
-     <About />
-     <Skill />
-     <Gallery />
-     <Footer />
+    <Router>
+      <Navbar menu1="Home" menu2="Gallery" menu3="Project" menu4="Contact" />
+      <Routes>
+        <Route path="/react-page" element={<Home />} />
+        <Route path="/react-page/gallery" element={<Collections />} />
+        <Route path="/react-page/project" element={<Project />} />
+        <Route path="/react-page/contact" element={<Contact />} />
+      </Routes>
+    </Router>
   </React.StrictMode>
 );
 

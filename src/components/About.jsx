@@ -1,6 +1,7 @@
 import React from "react";
 import animasi from "../img/animasi.png";
 import '../javascript/aos.js';
+import computer from "../img/computer.png";
 
 export function About() {
   
@@ -8,24 +9,24 @@ export function About() {
     <section className="container mt-16 mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8 my-5">
       {/* Text Section */}
 
-      <div  data-aos="fade-down" data-aos-duration="1500" className="flex flex-col justify-center p-4">
-        <h1 data-aos="fade-right" data-aos-duration="1500" className="text-3xl font-bold mb-4">Rahmat Taufik Rinaldi</h1>
-        <p data-aos="fade-left" data-aos-duration="1500" className="text-justify leading-relaxed">
+      <div  data-aos="fade-down" data-aos-duration="1500" className="flex flex-col justify-center">
+        <h1 data-aos="fade-right" data-aos-duration="1500" className="text-3xl font-bold mb-4 p-4">Rahmat Taufik Rinaldi</h1>
+        <p data-aos="fade-down" data-aos-duration="1500" className="text-justify p-4">
           <p className="text-justify">
-            Saya seorang fullstack development yang berfokus pada 
-            saya adalah full stack web development amet consectetur adipisicing elit. Nesciunt
-            officiis at debitis adipisci, aliquam esse, aspernatur perspiciatis
-            neque ab ad veritatis! Lorem ipsum dolor sit, amet consectetur
-            adipisicing elit. Fuga delectus facilis officia, et illo eveniet
-            numquam sit ipsam magnam amet? Rerum velit nulla cumque inventore
-            consequuntur. Dolorem quos voluptatibus aut. Lorem ipsum dolor sit
-            amet consectetur, adipisicing elit. Est officiis accusantium facere,
-            sunt, eos numquam dolorum exercitationem quam dolores dignissimos
-            reiciendis, officia nulla provident aliquid! Possimus adipisci illo
-            repellendus voluptatibus! Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Optio eaque laborum facilis veritatis laboriosam
-            consequuntur iste quas sapiente earum expedita magnam quaerat, nulla
-            maiores ducimus dolor obcaecati. Consequatur, repellat quasi!
+          Saya adalah seorang Full Stack Web Developer yang memiliki keahlian dalam membangun dan
+           mengembangkan aplikasi web dari sisi frontend hingga backend. 
+          Dengan pengalaman dalam berbagai teknologi modern, 
+          saya mampu menciptakan solusi web yang responsif, efisien, dan sesuai dengan kebutuhan klien.
+          </p>
+            
+          <p>
+           <img src={computer} alt="" srcset="" />
+          </p>
+
+          <p>
+          Saya juga terbiasa bekerja dengan tim lintas fungsi untuk memastikan keberhasilan proyek, termasuk designer, QA tester, dan manajer proyek.
+           Dengan kemampuan komunikasi yang baik, 
+          saya selalu berusaha menjembatani kebutuhan teknis dan bisnis agar proyek selesai tepat waktu.
           </p>
         </p>
         <div className="mt-4 flex gap-4">

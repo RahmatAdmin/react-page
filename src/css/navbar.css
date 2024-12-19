@@ -1,46 +1,5 @@
-body{
-    background-color: rgb(0, 0, 0);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
 
 nav{
-    background-color: rgb(0, 0, 0);
+    background-color: oklch(23.2607% 0.013807 253.100675 / 1);
     color: white;
-}
-
-.container{
-    display: flex;
-    flex-direction: row;
-}
-
-.app{
-    height: 80px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.btn{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 120px;
-    height: 40px;
-    background-color: rgb(60, 203, 246);
-    border-radius: 4px;
-}
-
-a{
-    text-decoration: none;
-    color: white;
-    font-weight: 500;
-}
-
-img{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 100%;
-    width: 50px;
-    height: 50px;
 }
