@@ -1,25 +1,42 @@
 {
   "files": {
-    "main.css": "/react-page/static/css/main.d3d30062.css",
-    "main.js": "/react-page/static/js/main.9dedf33a.js",
+    "main.css": "/react-page/static/css/main.f0fcdd2d.css",
+    "main.js": "/react-page/static/js/main.df464923.js",
     "static/js/488.4e1284fd.chunk.js": "/react-page/static/js/488.4e1284fd.chunk.js",
+    "static/media/picture15.jpeg": "/react-page/static/media/picture15.591d02770ba5a58908ee.jpeg",
+    "static/media/picture13.jpeg": "/react-page/static/media/picture13.3ca77ccf5c87e4187dcb.jpeg",
+    "static/media/picture10.jpeg": "/react-page/static/media/picture10.86dc1dcf4736f2d7f3ea.jpeg",
     "static/media/node.png": "/react-page/static/media/node.919397545d6833fcfab0.png",
+    "static/media/picture6.jpeg": "/react-page/static/media/picture6.1144d3e80633b76cd77b.jpeg",
+    "static/media/picture1.jpeg": "/react-page/static/media/picture1.fc2736022041c7e7e0ba.jpeg",
+    "static/media/picture8.jpeg": "/react-page/static/media/picture8.8e3f02d3bf0e1bdf91ed.jpeg",
     "static/media/mongo.png": "/react-page/static/media/mongo.82e0bbbbfc4a56be54b9.png",
+    "static/media/picture3.jpeg": "/react-page/static/media/picture3.eebbcc3526167eb16614.jpeg",
+    "static/media/picture12.jpeg": "/react-page/static/media/picture12.44761fd8763268adea0f.jpeg",
     "static/media/laravel.png": "/react-page/static/media/laravel.693716c48a80036f4796.png",
+    "static/media/picture9.jpeg": "/react-page/static/media/picture9.923d40ec77c3cb1d9f80.jpeg",
+    "static/media/picture7.jpeg": "/react-page/static/media/picture7.73a8eec10b6bf2e86b21.jpeg",
+    "static/media/picture14.jpeg": "/react-page/static/media/picture14.b8aa0b1562a448188bfd.jpeg",
     "static/media/html.png": "/react-page/static/media/html.daf27e6ed28d4653d17d.png",
     "static/media/ubuntu.png": "/react-page/static/media/ubuntu.d4f5eabb53d643e262c2.png",
     "static/media/animasi.png": "/react-page/static/media/animasi.1b8151533a91688972b8.png",
+    "static/media/computer.png": "/react-page/static/media/computer.2be0467217692f1c5564.png",
     "static/media/css.png": "/react-page/static/media/css.44d3b4ce98958d57133a.png",
+    "static/media/picture2.jpeg": "/react-page/static/media/picture2.1ae95961258415147744.jpeg",
     "static/media/js.png": "/react-page/static/media/js.b908d001f4304d69b868.png",
+    "static/media/picture5.jpeg": "/react-page/static/media/picture5.9fddccd17d28809da825.jpeg",
+    "static/media/picture4.jpeg": "/react-page/static/media/picture4.f6fd1fbd777e18f5fbf4.jpeg",
+    "static/media/picture11.jpeg": "/react-page/static/media/picture11.ab7a18d3aa3a60d8162a.jpeg",
     "static/media/laragon.png": "/react-page/static/media/laragon.acd7f0a5de8bb8126e33.png",
+    "static/media/no-results.png": "/react-page/static/media/no-results.0dd4675fb9c7ebcdb378.png",
     "static/media/express.png": "/react-page/static/media/express.9b344d7469dbbdc76754.png",
     "index.html": "/react-page/index.html",
-    "main.d3d30062.css.map": "/react-page/static/css/main.d3d30062.css.map",
-    "main.9dedf33a.js.map": "/react-page/static/js/main.9dedf33a.js.map",
+    "main.f0fcdd2d.css.map": "/react-page/static/css/main.f0fcdd2d.css.map",
+    "main.df464923.js.map": "/react-page/static/js/main.df464923.js.map",
     "488.4e1284fd.chunk.js.map": "/react-page/static/js/488.4e1284fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3d30062.css",
-    "static/js/main.9dedf33a.js"
+    "static/css/main.f0fcdd2d.css",
+    "static/js/main.df464923.js"
   ]
 }
